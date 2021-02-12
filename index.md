@@ -3,7 +3,7 @@
 Proje lise ve üniversite öğrencilerinin akademisyenler ile kolayca iletişime geçebilmelerini amaçlar.
 </p>
 
-**Akademisyen kaydı için**: https://forms.gle/EF9CgphMEuacXWXp6
+**Akademisyen kaydı için**: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
 
 ### Takvim: Akademisyen Ofis Saatleri
 <p align="justify">
