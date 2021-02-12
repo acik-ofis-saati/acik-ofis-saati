@@ -7,7 +7,7 @@ Proje lise ve üniversite öğrencilerinin akademisyenler ile kolayca iletişime
 
 ### Takvim: Akademisyen Ofis Saatleri
 <p align="justify">
-Akademisyenlerin ofis saatlerini takvimde görüntüleyebilirsiniz. Katılmak istediğiniz zaman aralığına tıkladığınızda google_meet ile biten ilk bağlantıdan görüşmeye katılabilirsiniz. "Daha ayrıntılı bilgi" seçeneği ile takvim davetine erişmeniz de mümkündür.
+Akademisyenlerin ofis saatlerini takvimde görüntüleyebilirsiniz. Katılmak istediğiniz zaman aralığına tıkladığınızda google_meet ile biten ilk bağlantıdan görüşmeye katılabilirsiniz.
   
 Katılımcı akademisyen listesi aşağıda bulabilirsiniz.
   
