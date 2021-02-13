@@ -5,15 +5,17 @@ kolayca iletişime geçebilmelerini amaçlar.
 
 **Akademisyen kaydı için**: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
 
+
+
 ### Takvim: Akademisyen Ofis Saatleri
 
 Akademisyenlerin ofis saatlerini takvimde görüntüleyebilirsiniz. 
-
 Görüşmelere katılmak için kayıt zorunludur:
 
 [Öğrenci olarak takvimdeki görüşmelerden birine kayıt olmak için buraya tıklayınız.](https://forms.gle/MbLGU4aJF8fRSzrU8)
 
  
+
 Katılımcı akademisyen listesini aşağıda bulabilirsiniz.
  
   
