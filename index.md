@@ -1,6 +1,7 @@
 ### Açık Ofis Saati Projesi
-Proje lise ve üniversite öğrencilerinin akademisyenler ile kolayca iletişime geçebilmelerini amaçlar.
+Proje lise ve üniversite öğrencilerinin akademisyenler ile 
 
+kolayca iletişime geçebilmelerini amaçlar.
 
 **Akademisyen kaydı için**: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
 
@@ -8,7 +9,9 @@ Proje lise ve üniversite öğrencilerinin akademisyenler ile kolayca iletişime
 
 Akademisyenlerin ofis saatlerini takvimde görüntüleyebilirsiniz. 
 
-Görüşmelere katılmak için kayıt zorunludur: [Takvimdeki görüşmelerden birine kayıt olmak için buraya tıklayınız.](https://forms.gle/MbLGU4aJF8fRSzrU8)
+Görüşmelere katılmak için kayıt zorunludur:
+
+[Takvimdeki görüşmelerden birine kayıt olmak için buraya tıklayınız.](https://forms.gle/MbLGU4aJF8fRSzrU8)
 
  
 Katılımcı akademisyen listesini aşağıda bulabilirsiniz.
