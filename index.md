@@ -11,7 +11,7 @@ Akademisyenlerin ofis saatlerini takvimde görüntüleyebilirsiniz.
 
 Görüşmelere katılmak için kayıt zorunludur:
 
-[Takvimdeki görüşmelerden birine kayıt olmak için buraya tıklayınız.](https://forms.gle/MbLGU4aJF8fRSzrU8)
+[Öğrenci olarak takvimdeki görüşmelerden birine kayıt olmak için buraya tıklayınız.](https://forms.gle/MbLGU4aJF8fRSzrU8)
 
  
 Katılımcı akademisyen listesini aşağıda bulabilirsiniz.
