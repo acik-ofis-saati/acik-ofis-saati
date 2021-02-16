@@ -1,6 +1,8 @@
 ### Açık Ofis Saati Projesi
 Proje lise ve üniversite öğrencilerinin akademisyenler ile kolayca iletişime geçebilmelerini amaçlar.
 
+*Herhangi bir sorunuz veya öneriniz için acikofissaati@gmail.com adresine mail atabilirsiniz.*
+
 **Akademisyen kaydı için**: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
 
 
