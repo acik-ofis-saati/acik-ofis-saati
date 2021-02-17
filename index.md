@@ -11,12 +11,11 @@ Açık Ofis Saatlerinden haftalık haberdar olmak isterseniz Telegram kanalına 
 ### Takvim: Akademisyen Ofis Saatleri
 
 Akademisyenlerin ofis saatlerini takvimde görüntüleyebilirsiniz. 
-Görüşmelere katılmak için kayıt zorunludur:
 
+Görüşmelere kayıt olmadan katılınamamaktadır:
 [Öğrenci olarak takvimdeki görüşmelerden birine kayıt olmak için buraya tıklayınız.](https://forms.gle/MbLGU4aJF8fRSzrU8)
 
  
-
 Katılımcı akademisyen listesini aşağıda bulabilirsiniz.
  
   
