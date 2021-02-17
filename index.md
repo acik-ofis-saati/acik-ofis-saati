@@ -1,5 +1,5 @@
 ### Açık Ofis Saati Projesi
-Proje lise ve üniversite öğrencilerinin akademisyenler ile kolayca iletişime geçebilmelerini amaçlar. Görüşmeler soru-cevap şeklinde gerçekleşecektir. Görüşme öncesi **bölüm, ders, akademi ve araştırma** konusunda sorularınızı hazırlayınız.
+Proje lise ve üniversite öğrencilerinin akademisyenler ile kolayca iletişime geçebilmelerini amaçlar. Görüşmeler soru-cevap şeklinde gerçekleşecektir. Görüşme öncesi **bölüm, ders, akademi ve araştırma** konusunda sorularınızı hazırlayınız. Görüşmeler Google Meet üzerinden yapılacak olup bire bir gerçekleşmeyecektir.
 
 Açık Ofis Saatlerinden haftalık haberdar olmak isterseniz Telegram kanalına [https://t.me/acik_ofis_saati](https://t.me/acik_ofis_saati) veya [e-mail grubuna](https://groups.google.com/g/acik-ofis-saati) katılabilirsiniz.
 *Herhangi bir sorunuz veya öneriniz için acikofissaati@gmail.com adresine mail atabilirsiniz.*
