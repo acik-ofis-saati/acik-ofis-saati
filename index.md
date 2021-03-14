@@ -1,31 +1,24 @@
 ### Açık Ofis Saati Projesi
-Proje lise ve üniversite öğrencilerinin akademisyenler ile kolayca iletişime geçebilmelerini amaçlar. Görüşmeler soru-cevap şeklinde gerçekleşecektir. Görüşme öncesi **bölüm, ders, akademi ve araştırma** konularında sorularınızı hazırlayınız. Görüşmeler Google Meet üzerinden yapılacak olup bire bir gerçekleşmeyecektir.
-
-Açık Ofis Saatlerinden haftalık haberdar olmak isterseniz:
+Proje lise ve üniversite öğrencilerinin akademisyenler ile kolayca iletişime geçebilmelerini amaçlar. 
 
 [Twitter](https://twitter.com/acik_ofis_saati)\
-Telegram kanalı [https://t.me/acik_ofis_saati](https://t.me/acik_ofis_saati)\
-[E-mail grubu](https://groups.google.com/g/acik-ofis-saati) 
-
-
 *Herhangi bir sorunuz veya öneriniz için acikofissaati@gmail.com adresine mail atabilirsiniz.*
 
-**Akademisyen kaydı için**: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
+Haftalık duyurular için:\
+Telegram kanalı [https://t.me/acik_ofis_saati](https://t.me/acik_ofis_saati)\
+[E-mail grubu](https://groups.google.com/g/acik-ofis-saati)\
 
+Öğrenciyseniz:
+1. Takvimi ve altında bulunan akademisyen listesini inceleyiniz. 
+2. Görüşmek istediğiniz akademisyeni belirledikten sonra bu görüşmeye görüşmeden en az bir gün önce şu form ile kaydolunuz: [Öğrenci Görüşme Kayıt Form](https://forms.gle/MbLGU4aJF8fRSzrU8)
+3. Görüşmeler soru-cevap şeklinde gerçekleşecektir. Görüşme öncesi **bölüm, ders, akademi ve araştırma** konularında sorularınızı hazırlayınız. 
+4. Google Meet üzerinden yapılacak olup birden çok öğrenci katılabilecektir.
+
+Akademisyenseniz:
+Projeye dahil olmak istiyorsanız:[Form](https://forms.gle/EF9CgphMEuacXWXp6)
+Projede yer alıyor ve Yeni Açık Ofis Saati oluşturmak istiyorsanız: (https://forms.gle/EF9CgphMEuacXWXp6)
 
 ### Takvim: Akademisyen Ofis Saatleri
-
-Akademisyenlerin ofis saatlerini takvimde görüntüleyebilirsiniz. 
-
-Öğrencilerin görüşmelere katılmaları için kayıt olmaları zorunludur:
-
-
-**Öğrenci kaydı için (Görüşmeden en az 1 gün önce kaydolunuz.)**: [Form](https://forms.gle/MbLGU4aJF8fRSzrU8)
-
- 
-Katılımcı akademisyen listesini aşağıda bulabilirsiniz.
- 
-  
 **Oklara basarak önümüzdeki haftaları görüntüleyebilirsiniz.**
 <iframe src="https://calendar.google.com/calendar/embed?src=acikofissaati%40gmail.com&ctz=Europe%2FIstanbul" style="border: 0" width="1100" height="600" frameborder="0" scrolling="no"></iframe>
 
