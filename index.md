@@ -8,7 +8,7 @@ Haftalık duyurular için:\
 * [E-mail grubu](https://groups.google.com/g/acik-ofis-saati)
 
 *Herhangi bir sorunuz veya öneriniz için acikofissaati@gmail.com adresine mail atabilirsiniz.*
-
+\
 **Öğrenciyseniz:**
 1. Takvimi ve altında bulunan akademisyen listesini inceleyiniz. 
 2. Görüşmek istediğiniz akademisyeni belirledikten sonra bu görüşmeye şu form ile kaydolunuz: [Öğrenci Görüşme Kayıt Formu](https://forms.gle/MbLGU4aJF8fRSzrU8)
