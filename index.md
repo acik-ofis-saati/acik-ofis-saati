@@ -11,9 +11,9 @@ Telegram kanalı [https://t.me/acik_ofis_saati](https://t.me/acik_ofis_saati)\
 
 **Öğrenciyseniz:**
 1. Takvimi ve altında bulunan akademisyen listesini inceleyiniz. 
-2. Görüşmek istediğiniz akademisyeni belirledikten sonra bu görüşmeye görüşmeden en az bir gün önce şu form ile kaydolunuz: [Öğrenci Görüşme Kayıt Form](https://forms.gle/MbLGU4aJF8fRSzrU8)
+2. Görüşmek istediğiniz akademisyeni belirledikten sonra bu görüşmeye şu form ile kaydolunuz: [Öğrenci Görüşme Kayıt Formu](https://forms.gle/MbLGU4aJF8fRSzrU8)
 3. Görüşmeler soru-cevap şeklinde gerçekleşecektir. Görüşme öncesi **bölüm, ders, akademi ve araştırma** konularında sorularınızı hazırlayınız. 
-4. Görüşmelere birden çok öğrenci katılabilecektir.
+NOT: Katılamayacağınız görüşmeler için e-mail atmanız gerekmektedir.
 
 **Akademisyenseniz:**
 1. Projeye dahil olmak istiyorsanız: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
