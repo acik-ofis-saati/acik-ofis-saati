@@ -17,6 +17,7 @@ Haftalık duyurular için:
 NOT: Katılamayacağınız görüşmeler için e-mail atmanız gerekmektedir.
 \
 \
+
 **Akademisyenseniz:**
 \
 * Projeye dahil olmak istiyorsanız: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
