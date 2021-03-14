@@ -20,7 +20,7 @@ NOT: Katılamayacağınız görüşmeler için e-mail atmanız gerekmektedir.
 **Akademisyenseniz:**
 
 * Projeye dahil olmak istiyorsanız: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
-* Projede yer alıyor ve Yeni Açık Ofis Saati oluşturmak istiyorsanız: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
+* Projede yer alıyor ve Yeni Açık Ofis Saati oluşturmak istiyorsanız: [Açıklamalar](https://drive.google.com/file/d/1wsEJAZADS8mJMqnYH81vKIpe9jceVpKy/view?usp=sharing)
 
 ### Takvim: Akademisyen Ofis Saatleri
 **Oklara basarak önümüzdeki haftaları görüntüleyebilirsiniz.**
