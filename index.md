@@ -2,7 +2,7 @@
 Proje lise ve üniversite öğrencilerinin akademisyenler ile kolayca iletişime geçebilmelerini amaçlar. 
 Görüşmeler ücretsizdir ve Google Meet platformu üzerinden soru-cevap şeklinde gerçekleşir.
 
-Haftalık duyurular için:\
+Haftalık duyurular için:
 * [Twitter adresi](https://twitter.com/acik_ofis_saati)
 * Telegram kanalı [https://t.me/acik_ofis_saati](https://t.me/acik_ofis_saati)
 * [E-mail grubu](https://groups.google.com/g/acik-ofis-saati)
