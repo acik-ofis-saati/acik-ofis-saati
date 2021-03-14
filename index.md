@@ -15,11 +15,10 @@ Haftalık duyurular için:
 2. Görüşmek istediğiniz akademisyeni belirledikten sonra bu görüşmeye şu form ile kaydolunuz: [Öğrenci Görüşme Kayıt Formu](https://forms.gle/MbLGU4aJF8fRSzrU8)
 3. Görüşmeler soru-cevap şeklinde gerçekleşecektir. Görüşme öncesi **bölüm, ders, akademi ve araştırma** konularında sorularınızı hazırlayınız. 
 NOT: Katılamayacağınız görüşmeler için e-mail atmanız gerekmektedir.
-\
-\
+
 
 **Akademisyenseniz:**
-\
+
 * Projeye dahil olmak istiyorsanız: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
 * Projede yer alıyor ve Yeni Açık Ofis Saati oluşturmak istiyorsanız: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
 
