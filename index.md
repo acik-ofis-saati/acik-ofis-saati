@@ -3,9 +3,9 @@ Proje lise ve üniversite öğrencilerinin akademisyenler ile kolayca iletişime
 Görüşmeler ücretsizdir ve Google Meet platformu üzerinden soru-cevap şeklinde gerçekleşir.
 
 Haftalık duyurular için:\
-[Twitter adresi](https://twitter.com/acik_ofis_saati)\
-Telegram kanalı [https://t.me/acik_ofis_saati](https://t.me/acik_ofis_saati)\
-[E-mail grubu](https://groups.google.com/g/acik-ofis-saati)
+* [Twitter adresi](https://twitter.com/acik_ofis_saati)\
+* Telegram kanalı [https://t.me/acik_ofis_saati](https://t.me/acik_ofis_saati)\
+* [E-mail grubu](https://groups.google.com/g/acik-ofis-saati)
 
 *Herhangi bir sorunuz veya öneriniz için acikofissaati@gmail.com adresine mail atabilirsiniz.*
 
@@ -14,7 +14,8 @@ Telegram kanalı [https://t.me/acik_ofis_saati](https://t.me/acik_ofis_saati)\
 2. Görüşmek istediğiniz akademisyeni belirledikten sonra bu görüşmeye şu form ile kaydolunuz: [Öğrenci Görüşme Kayıt Formu](https://forms.gle/MbLGU4aJF8fRSzrU8)
 3. Görüşmeler soru-cevap şeklinde gerçekleşecektir. Görüşme öncesi **bölüm, ders, akademi ve araştırma** konularında sorularınızı hazırlayınız. 
 NOT: Katılamayacağınız görüşmeler için e-mail atmanız gerekmektedir.
-
+\
+\
 **Akademisyenseniz:**
 1. Projeye dahil olmak istiyorsanız: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
 2. Projede yer alıyor ve Yeni Açık Ofis Saati oluşturmak istiyorsanız: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
