@@ -11,8 +11,8 @@ Haftalık duyurular için:
 \
 \
 **Öğrenciyseniz:**
-1. Takvimi ve altında bulunan akademisyen listesini inceleyiniz. 
-2. Görüşmek istediğiniz akademisyeni belirledikten sonra bu görüşmeye şu form ile kaydolunuz: [Öğrenci Görüşme Kayıt Formu](https://forms.gle/MbLGU4aJF8fRSzrU8)
+1. Takvimi ve altında bulunan akademisyen ve yüksek lisans / doktora öğrencileri listesini inceleyiniz. 
+2. Görüşmek istediğiniz akademisyeni veya öğrenciyi belirledikten sonra bu görüşmeye şu form ile kaydolunuz: [Öğrenci Görüşme Kayıt Formu](https://forms.gle/MbLGU4aJF8fRSzrU8)
 3. Görüşmeler soru-cevap şeklinde gerçekleşecektir. Görüşme öncesi **bölüm, ders, akademi ve araştırma** konularında sorularınızı hazırlayınız. 
 NOT: Katılamayacağınız görüşmeler için e-mail atmanız gerekmektedir.
 
@@ -24,6 +24,7 @@ NOT: Katılamayacağınız görüşmeler için e-mail atmanız gerekmektedir.
 
 **Yüksek Lisans/Doktora öğrencisiyseniz:**
 * Projeye dahil olmak istiyorsanız: [Form](https://forms.gle/DBA3dBhtTQhVzcSq9)
+* Projede yer alıyor ve Yeni Açık Ofis Saati oluşturmak istiyorsanız: [Açıklamalar](https://drive.google.com/file/d/1wsEJAZADS8mJMqnYH81vKIpe9jceVpKy/view?usp=sharing)
 
 ### Takvim: Akademisyen Ofis Saatleri
 **Oklara basarak önümüzdeki haftaları görüntüleyebilirsiniz.**
