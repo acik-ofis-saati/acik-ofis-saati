@@ -22,6 +22,9 @@ NOT: Katılamayacağınız görüşmeler için e-mail atmanız gerekmektedir.
 * Projeye dahil olmak istiyorsanız: [Form](https://forms.gle/EF9CgphMEuacXWXp6)
 * Projede yer alıyor ve Yeni Açık Ofis Saati oluşturmak istiyorsanız: [Açıklamalar](https://drive.google.com/file/d/1wsEJAZADS8mJMqnYH81vKIpe9jceVpKy/view?usp=sharing)
 
+**Yüksek Lisans/Doktora öğrencisiyseniz:**
+* Projeye dahil olmak istiyorsanız: [Form](https://forms.gle/DBA3dBhtTQhVzcSq9)
+
 ### Takvim: Akademisyen Ofis Saatleri
 **Oklara basarak önümüzdeki haftaları görüntüleyebilirsiniz.**
 <iframe src="https://calendar.google.com/calendar/embed?src=acikofissaati%40gmail.com&ctz=Europe%2FIstanbul" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
