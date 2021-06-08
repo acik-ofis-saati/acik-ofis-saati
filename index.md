@@ -27,3 +27,6 @@ NOT: Katılamayacağınız görüşmeler için e-mail atmanız gerekmektedir.
 <iframe src="https://calendar.google.com/calendar/embed?src=acikofissaati%40gmail.com&ctz=Europe%2FIstanbul" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREGSfogeIrBjtrGkIt1D3FzQlaFqiTl5SQdRN9dzNXyBG4IUE_BKk_XgOu0Nm9ia9VNS528atRLpp1/pubhtml?widget=true&amp;headers=false" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/19YM57JIEGOwdsSszm7KTM8ZqHQsa7LHKC3otr-5byec/edit?usp=sharing" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
