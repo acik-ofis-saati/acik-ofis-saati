@@ -26,7 +26,7 @@ NOT: Katılamayacağınız görüşmeler için e-mail atmanız gerekmektedir.
 **Oklara basarak önümüzdeki haftaları görüntüleyebilirsiniz.**
 <iframe src="https://calendar.google.com/calendar/embed?src=acikofissaati%40gmail.com&ctz=Europe%2FIstanbul" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREGSfogeIrBjtrGkIt1D3FzQlaFqiTl5SQdRN9dzNXyBG4IUE_BKk_XgOu0Nm9ia9VNS528atRLpp1/pubhtml?widget=true&amp;headers=false" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREGSfogeIrBjtrGkIt1D3FzQlaFqiTl5SQdRN9dzNXyBG4IUE_BKk_XgOu0Nm9ia9VNS528atRLpp1/pubhtml?widget=true&amp;headers=false" style="border: 0" width="1000" height="650" frameborder="0" scrolling="no"></iframe>
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSI3wyvL4N6jr6RHEbaCWyuL2AfPe0nFn6H7B6vMbZ0Z6MCr42Vfid8Ot_f0tY9riJDYSzdBw6oSHmV/pubhtml?gid=1776706672&single=true" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSI3wyvL4N6jr6RHEbaCWyuL2AfPe0nFn6H7B6vMbZ0Z6MCr42Vfid8Ot_f0tY9riJDYSzdBw6oSHmV/pubhtml?gid=1776706672&single=true" style="border: 0" width="1000" height="200" frameborder="0" scrolling="no"></iframe>
