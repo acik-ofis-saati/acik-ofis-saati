@@ -33,4 +33,4 @@ NOT: Katılamayacağınız görüşmeler için e-mail atmanız gerekmektedir.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREGSfogeIrBjtrGkIt1D3FzQlaFqiTl5SQdRN9dzNXyBG4IUE_BKk_XgOu0Nm9ia9VNS528atRLpp1/pubhtml?widget=true&amp;headers=false" style="border: 0" width="1000" height="800" frameborder="0" scrolling="no"></iframe>
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSI3wyvL4N6jr6RHEbaCWyuL2AfPe0nFn6H7B6vMbZ0Z6MCr42Vfid8Ot_f0tY9riJDYSzdBw6oSHmV/pubhtml?gid=1776706672&single=true" style="border: 0" width="1000" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSI3wyvL4N6jr6RHEbaCWyuL2AfPe0nFn6H7B6vMbZ0Z6MCr42Vfid8Ot_f0tY9riJDYSzdBw6oSHmV/pubhtml?gid=1776706672&single=true" style="border: 0" width="1000" height="800" frameborder="0" scrolling="no"></iframe>
